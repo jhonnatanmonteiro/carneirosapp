@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">os carneirinhos</string>
+    <string name="touchCounte">TOQUE PARA CONTAR</string>
+    <string name="yourclick0">Click para contar os carneiros : 0 CONTADOS</string>
+</resources>
